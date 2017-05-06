@@ -14,7 +14,7 @@ class C_mtpc extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'mtpc';
-       	$Ctrl_data['title'] = 'Metatrader 4 Terminal' ;
+       	$Ctrl_data['title'] = 'fxdoit';
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_pages/v_mtpc',$Ctrl_data);
     }

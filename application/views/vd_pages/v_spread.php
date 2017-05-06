@@ -19,17 +19,17 @@
 		<h1 class="page-header blue left">Spread</h1>
 		<h2 class="sub-seo-headline">
 			Spread refers to the difference between the purchase price and the selling price of trading products, that is to say, 
-			purchase price- selling price= spread. <br /><br />
-			When the relative monetary is the US dollar, the calculation formula of spread cost is: spread cost= standard spread× contract unit× lots.
+			purchase price&#9147; selling price= spread. <br /><br />
+			When the relative monetary is the US dollar, the calculation formula of spread cost is: spread cost= standard spread&#215; contract unit&#215; lots.
 		</h2>
 		<p class="subheading">
 			Since the platform settlement currency is US dollar, the trade that uses non dollar relative monetary need to have the instant 
 			rate of the direction of closing a position included in the calculation, the calculation formula is: the spread cost of 
-			buying positions= standard spread cost× contract unit× lots÷ the instant rate of selling relative monetary. The spread cost of 
-			selling positions= standard spread cost × contract unit × lots ÷ the instant rate of buying relative monetary.(Note: When 
+			buying positions= standard spread cost&#215; contract unit&#215; lots&#247; the instant rate of selling relative monetary. The spread cost of 
+			selling positions= standard spread cost &#215; contract unit &#215; lots &#247; the instant rate of buying relative monetary.(Note: When 
 			calculating the EUR/AUD and EUR/GBP, the trading platform will show only the exchange rate of that currency against dollar, 
 			namely the exchange rate of Australian dollar against US dollar and British pound against US dollar. So the calculation method 
-			should be “reciprocal”: spread cost= spread × contract unit × lots × the instant rate of closing a position against the US dollar.<br /><br />
+			should be &#8220;reciprocal&#8221;: spread cost= spread &#215; contract unit &#215; lots &#215; the instant rate of closing a position against the US dollar.<br /><br />
 			Forexware adopts STP transaction mode, the spread varies according to the market time and floating of activity. Reference spread are as follows:
 		</p>
 		<table class="table table-bordered" style="max-width: 300px;">

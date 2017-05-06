@@ -15,7 +15,7 @@
 		$this->load->view('vd_pages/v_header',$view_data) 
 	?>
 	
-	<div class="container-fluid-content" style="padding: 1200px 50px; margin-top: -1085px;">
+	<div class="container-fluid-content" style="padding: 1250px 50px; margin-top: -1135px;">
 		<div id="mt5">
 			<a href="/en/blog/mt5-cqg-gateway/">MT5 - CQG Gateway</a>
 		</div>
@@ -134,7 +134,7 @@
 				<p class="secondary-list-item-strong">News Panel and Live Market Data</p>
 			</div>
 			<div class="col-md-4">
-				<p class="secondary-list-item-strong">Online Training & Support</p>
+				<p class="secondary-list-item-strong">Online Training &#38; Support</p>
 			</div>
 			<div class="col-md-4">
 			</div>

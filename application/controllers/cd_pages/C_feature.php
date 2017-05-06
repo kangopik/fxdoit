@@ -14,7 +14,7 @@ class C_feature extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'feature';
-       	$Ctrl_data['title'] = 'Fitur' ;
+       	$Ctrl_data['title'] = 'fxdoit' ;
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_pages/v_feature',$Ctrl_data);
     }

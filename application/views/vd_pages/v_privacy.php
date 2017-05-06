@@ -19,7 +19,7 @@
 		<h1 class="page-header blue left">Privacy Policy</h1>
 		<p class="subheading">
 			At Forexware, maintaining customer trust and confidence is a high priority. We understand that you are concerned with how we 
-			treat nonpublic personal information (“Customer Information”) that we obtain from you or from other sources about you in the 
+			treat nonpublic personal information (&#8220;Customer Information&#8221;) that we obtain from you or from other sources about you in the 
 			course of providing you with our products and services. For this reason, we want you to understand how we work to protect your 
 			privacy when we collect and use information about you, and the steps we take to safeguard that information. <br /><br />
 			SECURITY PROCEDURES -- Forexware restricts access to Customer Information about you to: 
@@ -38,7 +38,7 @@
 			To protect the security of Customer Information, we maintain physical, electronic, and procedural safeguards that comply with 
 			federal standards for guarding the information we collect about you. While Advantage has written policies and procedures with 
 			respect to safeguarding your nonpublic personal information, it is possible (although highly unlikely) that a third party may 
-			be able to gain unauthorized access to such information by “hacking” into Advantage’s system or otherwise. We utilize state of 
+			be able to gain unauthorized access to such information by &#8220;hacking&#8221; into Advantage&#8217;s system or otherwise. We utilize state of 
 			the art security devices and employ best practices to safeguard all client information. <br /><br />
 			INFORMATION WE COLLECT -- In providing you with financial products and services, Forexware may collect the following types of 
 			Customer Information:

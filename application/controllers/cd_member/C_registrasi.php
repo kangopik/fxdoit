@@ -14,7 +14,7 @@ class C_registrasi extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'registrasi';
-       	$Ctrl_data['title'] = 'Registrasi' ;
+       	$Ctrl_data['title'] = 'fxdoit';
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_member/v_registrasi',$Ctrl_data);
     }

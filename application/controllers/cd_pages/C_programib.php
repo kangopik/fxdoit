@@ -14,7 +14,7 @@ class C_programib extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'programib';
-       	$Ctrl_data['title'] = 'Program IB' ;
+       	$Ctrl_data['title'] = 'fxdoit';
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_pages/v_programib',$Ctrl_data);
     }

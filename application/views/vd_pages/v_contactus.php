@@ -16,7 +16,7 @@
 	?>
 	
 	<div class="container-fluid-content" style="padding: 200px 50px; margin-top: -85px;">
-		<h1 class="page-header blue left">Hubungi Kami</h1>	
+		<h1 class="page-header blue left">Contact Us</h1>	
 		<h2 class="sub-seo-headline">Phone Support</h2>
 		<p class="subheading">
 			(+62) 82-143-136-044

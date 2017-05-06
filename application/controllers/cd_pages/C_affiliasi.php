@@ -14,7 +14,7 @@ class C_affiliasi extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'affiliasi';
-       	$Ctrl_data['title'] = 'Agen Affiliasi' ;
+       	$Ctrl_data['title'] = 'fxdoit';
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_pages/v_affiliasi',$Ctrl_data);
     }

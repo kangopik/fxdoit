@@ -14,7 +14,7 @@ class C_transaction extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'transaction';
-       	$Ctrl_data['title'] = 'Transaksi' ;
+       	$Ctrl_data['title'] = 'fxdoit';
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_pages/v_transaction',$Ctrl_data);
     }

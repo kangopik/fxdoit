@@ -16,30 +16,21 @@
 	?>
 	
 	<div class="container-fluid-content" style="padding: 300px 50px; margin-top: -185px;">
-		<h1 class="page-header blue left">Informasi Perusahaan</h1>		
-		<h2 class="sub-seo-headline">Tentang Kami</h2>
+		<h1 class="page-header blue left">Company Information</h1>		
+		<h2 class="sub-seo-headline">About Us</h2>
 		<p class="subheading">
-			Forexware terdaftar di Australian Securities and Investment Commission (ASIC) (No. Pendaftaran AFSL305539). <br /><br />
-			Forexware adalah penyedia layanan perdagangan keuangan terdepan di dunia. Forexware berkomitmen untuk menyediakan layanan 
-			kliring dan eksekusi paling komprehensif untuk para profesional, institusi, memiliki perlindungan dana di 5 benua dan lebih 
-			dari 130 negara, dan menyediakan solusi investasi finansial terbaik untuk pelanggan. Saat membuka akun dengan Forexware, Anda 
-			tidak hanya berdagang, tetapi berdagang dengan koneksi yang lebih cepat, layanan superior dengan harga yang kompetitif.
+			Forexware is registered by Australian Securities and Investment Commission (ASIC) (Registration No. AFSL305539).<br /><br />
+			Forexware is a world-leading financial derivatives trading service provider. Forexware is committed to provide the most comprehensive clearing and trading execution services for the professionals, institutions, hedge funds across 5 continents in more than 130 countries, and to provide customers with the best financial investment solutions. When you open an account with Forexware, you not only trade, you Trade Up-to quicker connections, superior service and competitive pricing.
 		</p>
-		<h2 class="sub-seo-headline">Tanggung Jawab Kami</h2>
+		<h2 class="sub-seo-headline">Our Responsibility</h2>
 		<p class="subheading">
-			Misi Forexwares adalah menyediakan layanan perdagangan institusional untuk semua pelanggan, baik itu klien institusi atau 
-			investor individual, untuk memberi mereka teknologi eksklusif yang inovatif, perdagangan dengan biaya rendah, pengawasan dana 
-			yang aman, alat riset pasar yang komprehensif, kursus pendidikan lanjutan dan pelayanan pelanggan kelas satu.<br /><br />
-			Melalui kerja sama likuidasi dengan bank terkenal di dunia, Forexware menyediakan solusi tercepat dan termurah untuk pertukaran 
-			mata uang dan logam mulia di seluruh dunia.
+			Forexwares mission is to provide institutional trading services for all customers, whether they are institutional clients or individual investors, to provide them with innovative proprietary technology, low cost trading, safety supervision of funds, comprehensive market research tools, advanced education courses and first-class customer service.<br/><br/>
+			Through the cooperation of liquidation with the world&#8217;s famous bank, Forexware provide worldwide users with the safest, the quickest and the lowest cost of online trading solutions on foreign exchange and precious metal.
 		</p>
-		<h2 class="sub-seo-headline">Kapasitas dan Prospek</h2>
+		<h2 class="sub-seo-headline">Capacity and Prospects</h2>
 		<p class="subheading">
-			Melalui upaya bertahun-tahun, kontrak Forexware telah dibuka untuk investor institusional dan individual lebih dari $ 100 miliar. 
-			Dengan terus memberikan layanan terbaik kepada pelanggan, skala perusahaan dan bisnis kami akan terus berkembang. Pangsa pasar 
-			perusahaan kami telah mendapat dorongan signifikan dan berada di antara jajaran pialang valuta asing yang penting.<br /><br />
-			Dengan kualifikasi yang luar biasa, Forexware akan menyediakan layanan perantara dan bisnis transaksi multi bahasa untuk pelanggan
-			global di lebih dari 100 negara (termasuk lembaga keuangan, perusahaan industri, perusahaan manajemen aset, trader profesional dan investor swasta).
+			Through years of efforts, the contracts Forexware have cleared for institutional and individual investors is more than $100 billion. By constantly providing excellent service to customers, our company scale and business will keep growing. The market share of our company has received a significant boost and has been among the ranks of important foreign exchange brokers.<br /><br />
+			With outstanding qualifications, Forexware will provide intermediary service and brokerage business of matchmaking transactions for global customers of multilingual in more than 100 countries( including financial institutions, industrial enterprises, asset management companies, professional traders and private investors).
 		</p>
     </div>
 	

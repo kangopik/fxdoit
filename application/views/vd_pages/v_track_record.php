@@ -65,8 +65,8 @@
 				<h2 class="highlight">USD avg daily volume</h2>
 				<strong class="bold-number">5mil</strong>
 				<h2 class="highlight">top of book available liquidity</h2>
-				<strong class="bold-number"><2wks</strong>
-				<h2 class="highlight">fully operational for FXStarterKit™ clients</h2>
+				<strong class="bold-number">&#60;2wks</strong>
+				<h2 class="highlight">fully operational for FXStarterKit&#8482; clients</h2>
 				<strong class="bold-number">$0</strong>
 				<h2 class="highlight">cost for FXStarterKit*<br /><sub>*excludes MT4 white label</sub></h2>
 			</div>

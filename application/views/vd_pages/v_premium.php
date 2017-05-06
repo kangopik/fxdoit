@@ -77,9 +77,9 @@
 				</tr>
 				<tr>
 					<td>Trading Instrument</td>
-					<td>Forex & Metal</td>
-					<td>Forex & Metal</td>
-					<td>Forex & Metal</td>
+					<td>Forex &#38; Metal</td>
+					<td>Forex &#38; Metal</td>
+					<td>Forex &#38; Metal</td>
 				</tr>
 				<tr>
 					<td>Expert Advisor</td>
@@ -108,7 +108,7 @@
 			</tbody>
 		</table>
 		<div class="btn-group btn-content">
-		    <a class="btn-registrasi" href="#" class="btn btn-white btn-default active">Registrasi Sekarang</a>
+		    <a class="btn-registrasi" href="#" class="btn btn-white btn-default active">Register Now</a>
 		</div>
 	</div>
 

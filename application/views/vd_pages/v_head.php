@@ -11,8 +11,12 @@
 <link href="<?php echo base_url(); ?>assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="<?php echo base_url(); ?>assets/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
 <link href="<?php echo base_url(); ?>assets/dist/css/style.css" rel="stylesheet" type="text/css">
+<link href="<?php echo base_url(); ?>assets/dist/css/glt_toolbar_styles.css" rel="stylesheet" type="text/css">
+<link href="<?php echo base_url(); ?>assets/dist/css/google_translate_style.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="<?php echo base_url(); ?>assets/plugins/fancybox/jquery.fancybox.min.css" media="screen">
 <!-- css -->
+
+<style type="text/css">#google_language_translator { clear:both; }#flags { width:165px; }#flags a { display:inline-block; margin-right:2px; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}</style>
 
 <!-- js -->
 <script>
@@ -27,4 +31,5 @@
 <script type="text/javascript" src="<?php echo base_url(); ?>assets/plugins/jquery/jquery-2.1.4.min.js"></script>
 <script type="text/javascript" src="<?php echo base_url(); ?>assets/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="<?php echo base_url(); ?>assets/plugins/fancybox/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url(); ?>assets/dist/js/load-toolbar.js"></script>
 <!-- js -->

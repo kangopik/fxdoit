@@ -14,7 +14,7 @@ class C_risk extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'risk';
-       	$Ctrl_data['title'] = 'Pengungkapan Risiko' ;
+       	$Ctrl_data['title'] = 'fxdoit';
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_pages/v_risk',$Ctrl_data);
     }

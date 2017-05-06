@@ -18,8 +18,8 @@
 	<div class="container-fluid-content" style="padding: 200px 50px; margin-top: -85px;">
 		<h1 class="page-header blue left">Risk Disclaimer</h1>
 		<p class="subheading">
-			This brief statement does not disclose all of the risks and other significant aspects of spot foreign currency trading(“Forex”).
-			In light of the risks you should undertake such transactions only if you(“trader ”or “Client”)understand the nature of the 
+			This brief statement does not disclose all of the risks and other significant aspects of spot foreign currency trading(&#8221;Forex&#8221;).
+			In light of the risks you should undertake such transactions only if you(&#8220;trader &#8221;or &#8220;Client&#8221;)understand the nature of the 
 			trading into which you are about to engage and the extent of your exposure to risk. Trading in Forex is not suitable for many 
 			members of the public. You should carefully consider whether trading is appropriate for you in light of your experience, 
 			objectives, financial resources and other relevant circumstances.
@@ -42,7 +42,7 @@
 			intended amounts, because market conditions may make it impossible to execute an order at the stipulated price. <br /><br />
 			4. Off-exchange transactions in derivatives <br /><br />
 			It may not always be apparent whether or not a particular derivative is arranged on-exchange or in an off- exchange derivative 
-			transaction. While some off-exchange markets are highly liquid, transactions in off-exchange or ‘non transferable’ derivatives 
+			transaction. While some off-exchange markets are highly liquid, transactions in off-exchange or &#8216;non transferable&#8217; derivatives 
 			may involve greater risk than investing in on-exchange derivatives because there is no exchange market on which to close out an 
 			open position. It may be impossible to liquidate an existing position, to assess the value of the position arising from an 
 			off-exchange transaction or to assess the exposure to risk. Bid prices and offer prices need not be quoted, and, even where 
@@ -67,7 +67,7 @@
 			Trading currencies involves substantial risk that is not be suitable for everyone. See Client Agreement for more detailed description 
 			of risks. Trading on-line, no matter how convenient or efficient, does not necessarily reduce risks associated with currency trading. <br /><br />
 			9. Quoting errors <br /><br />
-			Should quoting errors occur due to a dealer´s mistype of a quote or an erroneous price quote from a Client, such as but not limited 
+			Should quoting errors occur due to a dealer&#8217;s mistype of a quote or an erroneous price quote from a Client, such as but not limited 
 			to a wrong big figure quote, Forexware services will not be liable for the resulting errors in account balances. Forexware services 
 			reserves the right to make the necessary corrections or adjustments on the account involved. Any dispute arising from such quoting 
 			errors will be resolved on a basis of a fair market value of a currency at the time such an error occurred. <br /><br />

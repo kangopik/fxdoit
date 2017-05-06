@@ -14,7 +14,7 @@ class C_privacy extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'privacy';
-       	$Ctrl_data['title'] = 'Kebijakan Privasi' ;
+       	$Ctrl_data['title'] = 'fxdoit';
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_pages/v_privacy',$Ctrl_data);
     }

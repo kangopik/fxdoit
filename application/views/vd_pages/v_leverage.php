@@ -42,7 +42,7 @@
 		<p class="subheading">
 			Leverage can help you to earn huge profits with a relatively small initial investment. But leverage can also magnify your losses without 
 			a proper risk management. The leverage Forexware has provided indicates that we are willing to provide traders the risk level they are 
-			willing to bear, but doesn’t mean that we suggest you to invest by a leverage of 400:1, which is extremely risky. Finally, it is traders 
+			willing to bear, but doesn&#8217;t mean that we suggest you to invest by a leverage of 400:1, which is extremely risky. Finally, it is traders 
 			own decision to choose a leverage according to their risk tolerance.
 		</p>
 		<h2 class="sub-seo-headline">Negative Account Processing</h2>

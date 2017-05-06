@@ -14,7 +14,7 @@ class C_spread extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'spread';
-       	$Ctrl_data['title'] = 'Penyebaran' ;
+       	$Ctrl_data['title'] = 'fxdoit';
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_pages/v_spread',$Ctrl_data);
     }

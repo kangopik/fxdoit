@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <?php $this->load->view('vd_pages/v_head') ?>
 
 
-    <body class="bodyclass">
+<body>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
@@ -19,10 +19,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $view_data['page'] =  $page ;
 
 $this->load->view('vd_pages/v_header',$view_data) ?>
-
-<style>
-
-</style>
 
 
 <section class="full-width content-container">

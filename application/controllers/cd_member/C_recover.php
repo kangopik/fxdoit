@@ -14,7 +14,7 @@ class C_recover extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'recover';
-       	$Ctrl_data['title'] = 'Recover' ;
+       	$Ctrl_data['title'] = 'fxdoit';
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_member/v_recover',$Ctrl_data);
     }

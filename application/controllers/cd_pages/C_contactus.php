@@ -14,7 +14,7 @@ class C_contactus extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'contactus';
-       	$Ctrl_data['title'] = 'Hubungi Kami' ;
+       	$Ctrl_data['title'] = 'fxdoit' ;
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_pages/v_contactus',$Ctrl_data);
     }

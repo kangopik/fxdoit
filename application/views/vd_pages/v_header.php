@@ -10,34 +10,34 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="<?php echo base_url() ?>">Beranda</a></li>
+            <li><a href="<?php echo base_url() ?>">Home</a></li>
             <li>
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tentang Kami</a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
               <ul class="dropdown-menu">
-                <li><a href="<?php echo base_url() ?>cd_pages/C_company">Informasi Perusahaan</a></li>
-		        <li><a href="<?php echo base_url() ?>cd_pages/C_feature">Karakter Unggulan</a></li>
+                <li><a href="<?php echo base_url() ?>cd_pages/C_company">Company Information</a></li>
+		        <li><a href="<?php echo base_url() ?>cd_pages/C_feature">Superior Characteristic</a></li>
               </ul>
             </li>
             <li class="dropdown">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Bantuan</a>
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Support</a>
 				<ul class="dropdown-menu">
-	            	<li><a href="<?php echo base_url() ?>cd_pages/C_contactus">Hubungi Kami</a></li>
-	                <li><a href="<?php echo base_url() ?>cd_pages/C_spread">Penyebaran</a></li>
-	                <li><a href="<?php echo base_url() ?>cd_pages/C_leverage">Pengaruh</a></li>
-	                <li><a href="<?php echo base_url() ?>cd_pages/C_risk">Pengungkapan Risiko</a></li>
-	                <li><a href="<?php echo base_url() ?>cd_pages/C_privacy">Kebijakan Privasi</a></li>
+	            	<li><a href="<?php echo base_url() ?>cd_pages/C_contactus">Contact Us</a></li>
+	                <li><a href="<?php echo base_url() ?>cd_pages/C_spread">Spread</a></li>
+	                <li><a href="<?php echo base_url() ?>cd_pages/C_leverage">Leverage</a></li>
+	                <li><a href="<?php echo base_url() ?>cd_pages/C_risk">Risk Disclaimer</a></li>
+	                <li><a href="<?php echo base_url() ?>cd_pages/C_privacy">Privacy Policy</a></li>
 	       		</ul>
 			</li>
-            <li><a href="<?php echo base_url() ?>cd_pages/C_transaction">Transaksi</a></li>
+            <li><a href="<?php echo base_url() ?>cd_pages/C_transaction">Transaction Copy</a></li>
 			<li class="dropdown">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Jenis Akun</a>
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Type Account</a>
 				<ul class="dropdown-menu">
-	            	<li><a href="<?php echo base_url() ?>cd_pages/C_standart">Akun Standar</a></li>
-	                <li><a href="<?php echo base_url() ?>cd_pages/C_premium">Akun Premium</a></li>
+	            	<li><a href="<?php echo base_url() ?>cd_pages/C_standart">Standart Account</a></li>
+	                <li><a href="<?php echo base_url() ?>cd_pages/C_premium">Premium Account</a></li>
 	       		</ul>
 			</li>
 			<li class="dropdown">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Program</a>
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Platform</a>
 				<ul class="dropdown-menu">
 	            	<li><a href="<?php echo base_url() ?>cd_pages/C_xwt">XW Trader</a></li>
 	                <li><a href="<?php echo base_url() ?>cd_pages/C_xwm">XW Trader Mobile</a></li>
@@ -45,24 +45,24 @@
 	       		</ul>
 			</li>
 			<li class="dropdown" style="border-right: none;">
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Kemitraan</a>
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Partnership</a>
 				<ul class="dropdown-menu">
-	            	<li><a href="<?php echo base_url() ?>cd_pages/C_requestib">Pengajuan IB</a></li>
-	                <li><a href="<?php echo base_url() ?>cd_pages/C_programib">Program IB</a></li>	                
+	            	<li><a href="<?php echo base_url() ?>cd_pages/C_requestib">Apply for IB</a></li>
+	                <li><a href="<?php echo base_url() ?>cd_pages/C_programib">IB Program</a></li>	                
 	                <li><a href="<?php echo base_url() ?>cd_pages/C_affiliasi">Agen Affiliasi</a></li>
 	       		</ul>
 			</li>
           </ul>      
           <div id="right">
           	<div class="lang-select">
-				<span class="text">Pilih Bahasa:</span> 
-				<a href="index.html" style="margin-left: -70px;"><img src="<?php echo base_url()?>assets/img/us.jpg"></a>
-				<a href="index-id.html" ><span ><img src="<?php echo base_url()?>assets/img/id.jpg" style="border: 3px; border-style: solid; border-color: lightgreen"></span></a>
+				<span class="text"></span> 
+				<a href="index.html" style="margin-left: -70px;"></a>
+				<a href="index-id.html" ><span ></span></a>
 			</div>
 			<div class="head-right-cta"> 
- 				<a href="<?php echo base_url() ?>cd_pages/C_track_record" class="grey">Rekam Jejak</a> 
- 				<a href="<?php echo base_url() ?>cd_member/C_registrasi" class="green-cta">Buka Akun</a> 
- 				<a href="<?php echo base_url() ?>cd_member/C_login" class="header-contact">Login Akun</a> 
+ 				<a href="<?php echo base_url() ?>cd_pages/C_track_record" class="grey">Track Record</a> 
+ 				<a href="<?php echo base_url() ?>cd_member/C_registrasi" class="green-cta">Open Account</a> 
+ 				<a href="<?php echo base_url() ?>cd_member/C_login" class="header-contact">Login</a> 
  			</div> 
           </div>    
 		</div>

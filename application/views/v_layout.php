@@ -21,13 +21,14 @@
 		</div>
 	</div>
 
-	<?php $this->load->view('vd_pages/v_footer') ?>
+	<?php $this->load->view('vd_pages/v_footer') ?>	
 	
-	<script type="text/javascript" src="<?php echo base_url(); ?>assets/bootstrap/js/jquery.bootstrap-autohidingnavbar.js"></script>	
+    <script type="text/javascript" src="<?php echo base_url(); ?>assets/dist/js/navigation.js"></script>
+    <script type="text/javascript" src="<?php echo base_url(); ?>assets/bootstrap/js/jquery.bootstrap-autohidingnavbar.js"></script>	
 	<script type="text/javascript" src="<?php echo base_url(); ?>assets/bootstrap/js/jquery.bootstrap-dropdown-hover.js"></script>
-	<script>
+	<script type="text/javascript">
 		$('.navbar [data-toggle="dropdown"]').bootstrapDropdownHover();
     	$("div.navbar-fixed-top").autoHidingNavbar();
-    </script>
-</body>
+    </script>	
+ </body>
 </html>

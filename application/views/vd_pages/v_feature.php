@@ -16,42 +16,26 @@
 	?>
 	
 	<div class="container-fluid-content" style="padding: 200px 50px; margin-top: -85px;">
-		<h1 class="page-header blue left">Karakter Unggulan</h1>	
-		<h2 class="sub-seo-headline">Forexware terdaftar di Australian Securities and Investment Commission (ASIC) (No. Pendaftaran AFSL305539).</h2>
+		<h1 class="page-header blue left">Superior Characteristic</h1>	
+		<h2 class="sub-seo-headline">Forexware is registered by Australian Securities and Investment Commission (ASIC) (Registration No. AFSL305539).</h2>
 		<p class="subheading">
-			Investor akun perdagangan yang dibuka di Forexware akan benar-benar dilindungi oleh ASIC. ASIC adalah regulator hukum dari layanan 
-			keuangan dan pasar di Australia. Komisi Sekuritas dan Investasi Australia didirikan pada tahun 2001 berdasarkan "Securities and 
-			Investments Commission Act" Australia. Badan ini secara independen menjalankan fungsi peraturan pada perusahaan, perilaku 
-			investasi, produk dan layanan keuangan sesuai undang-undang.
+			The trading account investors opened in Forexware will be strictly protected by ASIC. ASIC is a statutory regulator of financial services and markets in Australia. Australian Securities and Investments Commission was established in 2001 under the Australian "Securities and Investments Commission Act". The agency independently exercise regulatory functions on companies, investment behaviors, financial products and services according to the law.
 		</p>
-		<h2 class="sub-seo-headline">Penyebaran yang sangat kompetitif</h2>
+		<h2 class="sub-seo-headline">Very Competitive Spreads</h2>
 		<p class="subheading">
-			Dengan tempat penyelesaian di beberapa bursa, Forexware mendapatkan harga terbaik di pasar, mengutip secara langsung dan 
-			menawarkan harga yang kompetitif kepada pelanggan. Perdagangan tidak akan dibatasi jika terjadi pelepasan berita dan data 
-			ekonomi penting. Dan Anda dapat mengatur pesanan dalam selisih antara harga beli dan penjualan. Pada saat yang sama, kami 
-			mendapat dukungan kuat dari lembaga keuangan internasional terkemuka, seperti BarclaysBank, HSBC, Goldmansachs, UBS, 
-			JPMorgenchase, CreditSuisse dan sebagainya. Forexware bisa mendapatkan harga pasar yang relatif optimal dan menyebar di bawah 
-			situasi likuiditas pasar valuta asing, yang menjamin kepentingan investor dalam jumlah besar.
+			With its seats of settlement in several exchanges, Forexware get the best price on the market, to quote directly and offer customers competitive prices. Trading will not be restricted in case of the release of important news and economic data. And you can set orders within the difference between purchase and sale price. At the same time, we received strong support from the international top financial institutions, such as BarclaysBank, HSBC, Goldmansachs, UBS, JPMorgenchase, CreditSuisse and so on. Forexware was able to get the relative optimal market price and spread under the illiquid situation of foreign exchange market, which guarantees the interests of investors in a large extent.
 		</p>
-		<h2 class="sub-seo-headline">Pasar Likuiditas Unggulan</h2>
+		<h2 class="sub-seo-headline">Top Market Liquidity</h2>
 		<p class="subheading">
-			Forexwares bulanan rata-rata volume perdagangan valuta asing hingga puluhan miliar rupiah. Seperti volume transaksi yang besar 
-			membuat kami menjalin hubungan baik dengan bank kliring terkemuka di dunia, ini membuat Forexware menyediakan pelanggan global 
-			dengan likuiditas terbaik dan standar eksekusi pesanan yang lebih ekstrem.
+			Forexwares monthly average of foreign exchange trading volume up to tens of billions of dollars. Such a large volume of transactions makes us established a good relationship with the world’s leading clearing bank, this makes Forexware provides global customers with top liquidity and a more extreme standards of order execution.
 		</p>
-		<h2 class="sub-seo-headline">Platform Perdagangan yang Kuat</h2>
+		<h2 class="sub-seo-headline">Powerful Trading Platform</h2>
 		<p class="subheading">
-			Forexware menggunakan platform perdagangan utama industri - MetaTrader4 sebagai solusi platform perdagangan, menyediakan 
-			platform perdagangan multi-akun, serta platform perdagangan untuk terminal mobile cerdas untuk manajer aset. Kegunaan, 
-			keterbukaan, pangsa pasar Meta Trader4 berada pada posisi terdepan di industri ini. Pelanggan dapat dengan mudah mendownload dan 
-			mencoba Mata Trader4 di situs ini. Entah itu akun real, atau akun demo, pelanggan bisa merasakan investasi pasar profesional 
-			terhadap valuta asing, logam mulia, minyak, pangsa global penting. Pilih Forexware, Anda dapat menghubungkan pasar investasi 
-			finansial dunia hanya dengan platform perdagangan.
+			Forexware use the industrys top trading platform - MetaTrader4 as trading platform solutions, providing multi-account trading platforms, as well as trading platform for smart mobile terminals for asset managers. The usability, openness, market share of Meta Trader4 are in a leading position in the industry. Customers can easily download and try the Mata Trader4 on this website. Whether it is real account, or demo account, customers can experience the feeling of professional market investment on foreign exchange, precious metal, oil, important global share. Choose Forexware, you can connect the world’s financial investment market just by a trading platform.
 		</p>
 		<h2 class="sub-seo-headline">STP trading patterns without artificial interference</h2>
 		<p class="subheading">
-			When customers open account and trading in Forexware, each of the order will be sent to co-operative bank. Customers profit and 
-			loss have no conflicts of interest with Forexware.<br /><br />
+			When customers open account and trading in Forexware, each of the order will be sent to co-operative bank. Customers profit and loss have no conflicts of interest with Forexware.<br /><br />
 			You will trade without artificial interference, whats more , the electronic trading system improves the efficiency and reduces 
 			the transaction costs, so we can provide you with a lower spread.
 		</p>

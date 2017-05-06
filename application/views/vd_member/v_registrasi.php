@@ -17,7 +17,12 @@
 	<link href="<?php echo base_url(); ?>assets/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
 	<link href="<?php echo base_url(); ?>assets/dist/css/login_style.css" rel="stylesheet" type="text/css">
 	<link href="<?php echo base_url(); ?>assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="<?php echo base_url(); ?>assets/dist/css/glt_toolbar_styles.css" rel="stylesheet" type="text/css">
+	<link href="<?php echo base_url(); ?>assets/dist/css/google_translate_style.css" rel="stylesheet" type="text/css">
 	<!-- css -->
+	
+	<style type="text/css">#google_language_translator { clear:both; }#flags { width:165px; }#flags a { display:inline-block; margin-right:2px; }.goog-tooltip {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight {background-color: transparent !important; border: none !important; box-shadow: none !important;}.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}</style>
+	
 	
 	<!-- js -->
 	<script>
@@ -31,6 +36,7 @@
 	</script>
 	<script type="text/javascript" src="<?php echo base_url(); ?>assets/plugins/jquery/jquery-2.1.4.min.js"></script>
 	<script type="text/javascript" src="<?php echo base_url(); ?>assets/bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="<?php echo base_url(); ?>assets/dist/js/load-toolbar.js"></script>
 	<!-- js -->
 </head>
 <body>
@@ -42,7 +48,7 @@
 				</div>
 				<div id="headings_area">
 					<div class="page-header section-header">	
-						<h1>REGISTRASI MEMBER</h1>
+						<h1>REGISTER FORM</h1>
 					</div>
 				</div>
 				<div class="row">
@@ -50,7 +56,7 @@
 						<form action="" method="post">
 							<div class="col-md-6">
 								<div class="form-group">
-									<label class="control-label col-lg-4 label-registrasi">Nama Agen</label>
+									<label class="control-label col-lg-4 label-registrasi">Agent</label>
 									<div class="col-lg-8">
 										<input type="text" class="form-control" name="AgenName" id="AgenName" value='' required="required">
 									</div>
@@ -62,7 +68,7 @@
 									</div>
 								</div>
 								<div class="form-group" style="padding-top: 30px;">
-									<label class="control-label col-lg-4 label-registrasi">Nama Lengkap</label>
+									<label class="control-label col-lg-4 label-registrasi">Full Name</label>
 									<div class="col-lg-8">
 										<input type="text" class="form-control" name="NamaLengkap" id="NamaLengkap" value='' required="required">
 									</div>
@@ -74,40 +80,40 @@
 									</div>
 								</div>
 								<div class="form-group" style="padding-top: 30px;">
-									<label class="control-label col-lg-4 label-registrasi">No. Tlp</label>
+									<label class="control-label col-lg-4 label-registrasi">Phone Number</label>
 									<div class="col-lg-8">
 										<input type="text" class="form-control" name="NoTlp" id="NoTlp" value='' required="required" style="max-width: 50%;">
 									</div>
 								</div>
 								<div class="form-group" style="padding-top: 30px;">
-									<label class="control-label col-lg-4 label-registrasi">Kota</label>
+									<label class="control-label col-lg-4 label-registrasi">City</label>
 									<div class="col-lg-8">
 										<input type="text" class="form-control" name="Kota" id="Kota" value='' required="required">
 									</div>
 								</div>
 								<div class="form-group" style="padding-top: 30px;">
-									<label class="control-label col-lg-4 label-registrasi">Provinsi</label>
+									<label class="control-label col-lg-4 label-registrasi">Province</label>
 									<div class="col-lg-8">
 										<select name="Provinsi" id="Provinsi" class="form-control" required="required"> 
-			                        		<option value = ''>- Select Provinsi -</option>
+			                        		<option value = ''>- Select Province -</option>
 			                            </select>
 									</div>
 								</div>
 								<div class="form-group" style="padding-top: 30px;">
-									<label class="control-label col-lg-4 label-registrasi">Negara</label>
+									<label class="control-label col-lg-4 label-registrasi">Country</label>
 									<div class="col-lg-8">
 										<select name="Negara" id="Negara" class="form-control" required="required"> 
-			                        		<option value = ''>- Select Negara -</option>
+			                        		<option value = ''>- Select Country -</option>
 			                            </select>
 									</div>
 								</div>
 								<div class="form-group" style="padding-top: 30px;">
-									<label class="control-label col-lg-4 label-registrasi">Jenis Akun</label>
+									<label class="control-label col-lg-4 label-registrasi">Type Acount</label>
 									<div class="col-lg-8">
 										<select name="Negara" id="Negara" class="form-control" required="required" style="max-width: 50%;"> 
-			                        		<option value = ''>- Select Jenis Akun -</option>
-			                        		<option value = 'Akun Standar'>Akun Standar</option>
-			                        		<option value = 'Akun Premium'>Akun Premium</option>
+			                        		<option value = ''>- Select Type Acount -</option>
+			                        		<option value = 'Akun Standar'>Standart Account</option>
+			                        		<option value = 'Akun Premium'>Premium Account</option>
 			                            </select>
 									</div>
 								</div>
@@ -130,7 +136,7 @@
                                     </label>
 								</div>
 								<div class="form-group" style="padding-left: 15px;">
-									<input type="submit" value="Registrasi Sekarang" class="btn btn-success" name="btnregistrasi" >
+									<input type="submit" value="Start Now" class="btn btn-success" name="btnregistrasi" >
 								</div>
                                 <hr />
                                 ALREADY REGISTERED ? <a href="<?php echo base_url() ?>cd_member/C_login" >login here </a> 
@@ -145,6 +151,42 @@
 		<div id="footer">
 			<p class="copyright">&copy; 2017 fxdoit</p>
 		</div>
+		<div id="glt-translate-trigger">
+			<span class="notranslate">Translate &#187;</span>
+		</div>
+		<div id="glt-toolbar"></div>
+		<div id="flags" style="display:none">
+		  	<ul id="sortable" class="ui-sortable">
+		   		<li id='English'><a title='English' class='notranslate flag en united-states' data-lang="English"></a></li>
+		   		<li id='Indonesian'><a title='Indonesian' class='notranslate flag id Indonesian' data-lang="Indonesian"></a></li>
+		   	</ul>
+		</div>
+		<div id="google_translate_element" style="display: none;"></div>
+		
+		<script type="text/javascript">
+			  function googleTranslateElementInit() {
+			    new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+			  }
+			</script>
+		    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+			
+		    
+		<script type="text/javascript">
+		    $('.ui-sortable a').click(function() {
+		        var lang_text = $(this).data('lang');
+		        var simple = $('.goog-te-menu-frame:first'); 
+		        if (!simple.size()) {
+		          alert("Error: Could not find Google translate frame.");
+		          return false;
+		        }
+		
+		        var simpleValue = simple.contents().find('.goog-te-menu2-item span.text:contains('+lang_text+')');
+		        simpleValue.click(); 
+		        $(".tool-container").hide();
+		        0==$("body > #google_language_translator").length&&$("#glt-footer").html("<div id='google_language_translator'></div>");
+		        return false;
+		      });
+		</script>
 	</div>
 </body>
 </html>

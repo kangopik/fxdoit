@@ -14,7 +14,7 @@ class C_login extends CI_Controller
     public function index()
     {
        	$Ctrl_data['page'] = 'login';
-       	$Ctrl_data['title'] = 'Login' ;
+       	$Ctrl_data['title'] = 'fxdoit';
       	//$this->load->view('v_play',$data) ;
       	$this->load->view('vd_member/v_login',$Ctrl_data);
     }
